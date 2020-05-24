@@ -1,11 +1,11 @@
 #记录 shell 语法以及一些 shell 脚本
 
-    .
-    ├── README.md
-    ├── mysql
-    │   └── db_rename.sh
-    ├── network
-    │   └── moon.sh
-    ├── shell\ �\204\232�\234��\220��\212��\232\204�\207��\215�\226��\217.md
-    └── �\203习
+
+    |-- README.md
+    |-- mysql
+    |   `-- db_rename.sh
+    |-- network
+    |   `-- moon.sh
+    |-- shell 脚本启动的几种方式.md
+    `-- 练习
 
