@@ -15,6 +15,7 @@ network_id="加入的network_id"
 
 network_list=$(zerotier-cli listnetworks)
 
+# 判断是否已加入某个网络，如果没有则加入
 if [[ ${network_list} == *${network_id}* ]];then
     echo "已加入网络：${network_id}"
     else
